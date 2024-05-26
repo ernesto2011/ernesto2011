@@ -1,3 +1,5 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <h1 align="center">Hi 👋, I'm Ernesto</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
